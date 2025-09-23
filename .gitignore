@@ -1,0 +1,33 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+.env
+env/
+venv/
+.venv/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Python test / build
+.pytest_cache/
+coverage/
+
+# Data files (optional: track if small, ignore if large)
+data/
+
+# SQLite DBs
+*.sqlite3
+
+# Logs
+*.log
